@@ -5,7 +5,7 @@
 
 
 ## About me :mortar_board:
-I am a student, currently studying in <b>(KIIT)</b> Kallinga Institute of Industurial Technology. From very early on in my life, I started to fall in love with Technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a student, currently studying <b>MCA</b> in <b>(KIIT)</b> Kallinga Institute of Industurial Technology. From very early in my life, I started to fall in love with Technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Competitive Programming**
@@ -17,9 +17,15 @@ I am a student, currently studying in <b>(KIIT)</b> Kallinga Institute of Indust
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
 	- PHP MySQL 
+- **Hobby & Interests**
+	- PC Building
+	- Gaming 
+	- IOT
+	- Music
 
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
+- Automation Using IOT
 - JavaScript FrameWorks 
 - PHP FrameWorks
 - Unlock the secret to the universe 🤣:
