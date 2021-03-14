@@ -19,6 +19,7 @@ I am a student, currently studying <b>MCA</b> in <b>(KIIT)</b> Kallinga Institut
 	- PHP MySQL 
 - **Hobby & Interests**
 	- PC Building
+	- Cyber Security 
 	- Gaming 
 	- IOT
 	- Music
@@ -28,6 +29,7 @@ I am a student, currently studying <b>MCA</b> in <b>(KIIT)</b> Kallinga Institut
 - Automation Using IOT
 - JavaScript FrameWorks 
 - PHP FrameWorks
+- To know more in Cyber Security 
 - Unlock the secret to the universe 🤣:
 
 ## Reach me 
