@@ -12,7 +12,7 @@ I am a student, currently studying <b>MCA</b> in <b>(KIIT)</b> Kallinga Institut
 	- Python ❤️
 	- C
 	- C++
-	- Some Java
+	- Java
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
