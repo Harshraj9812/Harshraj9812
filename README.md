@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> Welcome to Harsh Github Profile! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> <img align="right" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="100px" width ="100px">
+# Hi there! 👋🏻 Welcome to Harsh Github Profile! 💻 <img align="right" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="100px" width ="100px">
 
 
 
@@ -13,10 +13,19 @@ I am a student, currently studying <b>MCA</b> in <b>(KIIT)</b> Kallinga Institut
 	- C
 	- C++
 	- Java
-- **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
+- **Skills** :white_check_mark:
+	- HTML, CSS and Javascript 
+	- WordPress
+	- React JS
+	- API
+	- CRUD Operations
+	- PHP & MySQL
+	- PHP MyAdmin (XAMPP)
+	- MongoDB
 	- Bootstrap
-	- PHP MySQL 
+	- Tailwind CSS
+	- Linux
+	- Shell Scripting
 - **Hobby & Interests**
 	- PC Building
 	- Cyber Security 
@@ -26,10 +35,10 @@ I am a student, currently studying <b>MCA</b> in <b>(KIIT)</b> Kallinga Institut
 
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
-- Automation Using IOT
+- Cyber Security 
 - JavaScript FrameWorks 
 - PHP FrameWorks
-- To know more in Cyber Security 
+- Automation Using IOT
 - Unlock the secret to the universe 🤣:
 
 ## Reach me 
