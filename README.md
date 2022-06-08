@@ -8,12 +8,12 @@
 I am a student, currently studying <b>MCA</b> in <b>(KIIT)</b> Kallinga Institute of Industurial Technology. From very early in my life, I started to fall in love with Technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
-- **Competitive Programming**
-	- Python ❤️
+- **Competitive Programming** 👨🏻‍💻
 	- C
 	- C++
+	- Python 
 	- Java
-- **Skills** :white_check_mark:
+- **Skills** 🏆
 	- HTML, CSS and Javascript 
 	- WordPress
 	- React JS
@@ -26,7 +26,7 @@ I am a student, currently studying <b>MCA</b> in <b>(KIIT)</b> Kallinga Institut
 	- Tailwind CSS
 	- Linux
 	- Shell Scripting
-- **Hobby & Interests**
+- **Hobby & Interests** 🏃🏻‍♂️
 	- PC Building
 	- Cyber Security 
 	- Gaming 
