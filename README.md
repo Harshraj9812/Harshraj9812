@@ -5,11 +5,11 @@
 
 
 ## About me :mortar_board:
-I am currently working at Accenture, Completed my <b>MCA</b> from <b>(KIIT)</b> Kallinga Institute of Industurial Technology. From very early in my life, I started to fall in love with Technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am currently working at <b>Accenture</b>, Completed my <b>MCA</b> from <b>(KIIT)</b> Kallinga Institute of Industurial Technology. From very early in my life, I started to fall in love with Technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 <a href="https://app.daily.dev/harshraj" ><img align="right" src="https://api.daily.dev/devcards/6a97ec6045764070844981cfd6d8994c.png?r=owb" width="400" alt="Harsh Raj's Dev Card"/></a>
 ## What I know :computer:
- - **DevOps Skills** ♾️
+- **DevOps Skills** ♾️
  - Google Cloud Platform (GCP)
  - Github Workflow, CI/CD Pipelines 
  - Jenkins 
