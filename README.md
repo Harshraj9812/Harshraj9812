@@ -9,6 +9,7 @@ I am currently working at <b>Accenture</b>, Completed my <b>MCA</b> from <b>(KII
 
 <a href="https://app.daily.dev/harshraj" ><img align="right" src="https://api.daily.dev/devcards/6a97ec6045764070844981cfd6d8994c.png?r=owb" width="400" alt="Harsh Raj's Dev Card"/></a>
 ## What I know :computer:
+
 - **DevOps Skills** ♾️
  - Google Cloud Platform (GCP)
  - Github Workflow, CI/CD Pipelines 
