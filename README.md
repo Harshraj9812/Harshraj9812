@@ -12,6 +12,7 @@ I am currently working at <b>Accenture</b>, Completed my <b>MCA</b> from <b>(KII
 
 - **DevOps Skills** ♾️
 	 - Google Cloud Platform (GCP)
+	 - Linode, Linode API's
 	 - Github Workflow, CI/CD Pipelines 
 	 - Jenkins 
 	 - Kubernetes 
