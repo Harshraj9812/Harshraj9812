@@ -11,18 +11,18 @@ I am currently working at <b>Accenture</b>, Completed my <b>MCA</b> from <b>(KII
 ## What I know :computer:
 
 - **DevOps Skills** ♾️
- - Google Cloud Platform (GCP)
- - Github Workflow, CI/CD Pipelines 
- - Jenkins 
- - Kubernetes 
- - Docker 
- - Ansible 
- - Nginx 
- - Grafana
- - ForgeRock 
- - ServiceNow 
- - Git
- - Cybersecurity
+	 - Google Cloud Platform (GCP)
+	 - Github Workflow, CI/CD Pipelines 
+	 - Jenkins 
+	 - Kubernetes 
+	 - Docker 
+	 - Ansible 
+	 - Nginx 
+	 - Grafana
+	 - ForgeRock 
+	 - ServiceNow 
+	 - Git
+	 - Cybersecurity
 - **Competitive Programming** 👨🏻‍💻
 	- C
 	- C++
@@ -41,7 +41,7 @@ I am currently working at <b>Accenture</b>, Completed my <b>MCA</b> from <b>(KII
 	- Tailwind CSS
 	- Linux
 	- Shell Scripting
- - Discord Bot Development 
+	- Discord Bot Development 
 - **Hobby & Interests** 🏃🏻‍♂️
 	- PC Building
 	- Cyber Security 
