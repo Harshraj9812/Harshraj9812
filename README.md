@@ -59,7 +59,7 @@ I am currently working at <b>Accenture</b>, Completed my <b>MCA</b> from <b>(KII
 - Unlock the secret to the universe 🤣:
 
 ## Reach me 
-<a href="https://harshraj.site/"><img alt="Website" src="https://img.shields.io/badge/Website-www.harshraj.site-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://harshraj.co.in/"><img alt="Website" src="https://img.shields.io/badge/Website-www.harshraj.co.in-blue?style=flat-square&logo=google-chrome"></a>
 [![Github](https://img.shields.io/github/followers/Harshraj9812?label=Follow&style=social)](https://github.com/Harshraj9812)
 [![Instagram](https://img.shields.io/badge/-@harsh.raj.2807-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harsh.raj.2807_/)](https://www.instagram.com/harsh.raj.2807)
 [![Linkedin](https://img.shields.io/badge/-Harsh%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-raj-gupta-b5a872104/)](https://www.linkedin.com/in/harsh-raj-gupta-b5a872104/)
