@@ -41,3 +41,10 @@ Highly skilled **DevOps Engineer** and **Full Stack Developer** with over 2 year
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshraj9812&show_icons=true&locale=en" alt="harshraj9812" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj9812&" alt="harshraj9812" /></p>
+
+<!-- Added from https://quira.sh/ -->
+<p>
+  <a href="https://stats.quine.sh/Harshraj9812/github?theme=dark">
+    <img src="https://stats.quine.sh/Harshraj9812/github?theme=dark" alt="GitHub Stats" />
+  </a>
+</p>
