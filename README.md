@@ -33,7 +33,9 @@ Highly skilled **DevOps Engineer** and **Full Stack Developer** with over 2 year
 <a href="https://harshraj.co.in/"><img alt="Website" src="https://img.shields.io/badge/Website-www.harshraj.co.in-blue?style=flat-square&logo=google-chrome"></a> [![Github](https://img.shields.io/github/followers/Harshraj9812?label=Follow&style=social)](https://github.com/Harshraj9812) [![Instagram](https://img.shields.io/badge/-@harsh.raj.2807-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harsh.raj.2807_/)](https://www.instagram.com/harsh.raj.2807) [![Linkedin](https://img.shields.io/badge/-Harsh%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-raj-gupta-b5a872104/)](https://www.linkedin.com/in/harsh-raj-gupta-b5a872104/) [![Mail](https://img.shields.io/badge/-harshraj9812@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsNRkWNpNDHHlHKBNtSDLctVXzsqbsmbDDklMtPhHmHMhvXvSprpQlxTlWgNkLdSlbfqL)](mailto:harshraj9812@gmail.com)
 
 
-### Interesting stats 📊
-![Harsh's stats](https://github-readme-stats.vercel.app/api?username=Harshraj9812&show_icons=true)
+## Interesting stats 📊
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshraj9812&show_icons=true&locale=en&layout=compact" alt="harshraj9812" /></p>
 
-⭐️🌟🌟🌟 From [Harsh Raj](https://github.com/Harshraj9812) 🌟🌟🌟⭐ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshraj9812&show_icons=true&locale=en" alt="harshraj9812" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj9812&" alt="harshraj9812" /></p>
