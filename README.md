@@ -79,7 +79,7 @@ Proven track record includes **80% reduction** in production vulnerabilities, **
 ![Profile views](https://komarev.com/ghpvc/?username=Harshraj9812&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ### Interesting stats 📊
-<!-- All cards generated daily by .github/workflows/readme-stats.yml (private data via STATS_PAT) -->
+<!-- Stats/top-langs: generated daily by Actions (private via STATS_PAT). Streak/activity: public hosts (private days already on profile). -->
 <p align="center">
   <a href="https://github.com/Harshraj9812">
     <img src="./profile/stats.svg" height="165" alt="Harshraj9812 GitHub stats" />
@@ -91,12 +91,12 @@ Proven track record includes **80% reduction** in production vulnerabilities, **
 
 <p align="center">
   <a href="https://github.com/Harshraj9812">
-    <img src="./profile/streak.svg" alt="Harshraj9812 GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=Harshraj9812&hide_border=true" alt="Harshraj9812 GitHub streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Harshraj9812">
-    <img src="./profile/activity-graph.svg" alt="Harshraj9812 contribution graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshraj9812&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true&custom_title=Harshraj9812%20Contribution%20Graph" alt="Harshraj9812 contribution graph" />
   </a>
 </p>
