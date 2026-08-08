@@ -1,0 +1,14 @@
+---
+description: Load profile repo summary and session history before editing
+alwaysApply: true
+---
+
+# Profile repo context
+
+This is the GitHub **profile README** repo (`Harshraj9812/Harshraj9812`).
+
+1. Read `.cursor/AGENTS.md` for current setup and constraints.
+2. Read `.cursor/SESSION_HISTORY.md` for past sessions and **standing decisions** — do not reverse them without asking the user.
+3. After meaningful changes (README, workflow, stats approach, secrets, contact links), append a dated entry to `.cursor/SESSION_HISTORY.md` with what was done and why.
+
+Standing rule of thumb: Actions + `STATS_PAT` only for `profile/stats.svg` and `profile/top-langs.svg`; streak and activity graph stay on public hosts.
