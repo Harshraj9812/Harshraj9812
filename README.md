@@ -79,13 +79,13 @@ Proven track record includes **80% reduction** in production vulnerabilities, **
 ![Profile views](https://komarev.com/ghpvc/?username=Harshraj9812&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ### Interesting stats 📊
-<!-- Official github-readme-stats.vercel.app is often paused; using community successors -->
+<!-- Stats/top-langs: generated daily by .github/workflows/readme-stats.yml (includes private repos via STATS_PAT) -->
 <p align="center">
   <a href="https://github.com/Harshraj9812">
-    <img src="https://github-stats-extended.vercel.app/api?username=Harshraj9812&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER" height="165" alt="Harshraj9812 GitHub stats" />
+    <img src="./profile/stats.svg" height="165" alt="Harshraj9812 GitHub stats" />
   </a>
   <a href="https://github.com/Harshraj9812">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Harshraj9812&layout=compact&langs_count=8&hide_border=true" height="165" alt="Harshraj9812 top languages" />
+    <img src="./profile/top-langs.svg" height="165" alt="Harshraj9812 top languages" />
   </a>
 </p>
 
