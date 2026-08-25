@@ -17,7 +17,9 @@ Keep the profile README accurate against the latest CV and present reliable GitH
 | `.cursor/SESSION_HISTORY.md` | Chronological work log + decisions (required reading) |
 | `profile/stats.svg` | Stats card (Actions + PAT, includes private) |
 | `profile/top-langs.svg` | Top languages card (Actions + PAT) |
-| `.github/workflows/readme-stats.yml` | Daily/manual generation of the two local SVGs |
+| `profile/streak.svg` | Streak card (Actions + PAT, contribution calendar) |
+| `profile/activity-graph.svg` | Activity graph (Actions + PAT, contribution calendar) |
+| `.github/workflows/readme-stats.yml` | Daily/manual generation of all four local SVGs |
 | `.cursor/rules/profile-context.mdc` | Always-on Cursor rule pointing agents here |
 
 CV reference (outside this repo): `Portfolio-Website-ThreeJS/TEMP/Harsh_Raj_Gupta_CV.pdf`
@@ -28,18 +30,18 @@ CV reference (outside this repo): `Portfolio-Website-ThreeJS/TEMP/Harsh_Raj_Gupt
 |------|--------|---------------|
 | Stats | `./profile/stats.svg` | Yes — `STATS_PAT` + `count_private=true` |
 | Top languages | `./profile/top-langs.svg` | Yes — `STATS_PAT` |
-| Streak | `streak-stats.demolab.com` | Public contribution calendar only |
-| Activity graph | `github-readme-activity-graph.vercel.app` | Public contribution calendar only |
+| Streak | `./profile/streak.svg` | Contribution calendar only (private days if enabled on profile) |
+| Activity graph | `./profile/activity-graph.svg` | Contribution calendar only (private days if enabled on profile) |
 
-Do **not** regenerate streak/activity in Actions unless the user explicitly asks. Private days already show when GitHub’s **Include private contributions on my profile** is on.
+Avoid public streak/activity hosts (`demolab`, `github-readme-activity-graph.vercel.app`) — unreliable or disabled. All four cards are generated in Actions.
 
 Avoid `github-readme-stats.vercel.app` (often paused). Live fallback if needed: `github-stats-extended.vercel.app`.
 
 ## Workflow (`readme-stats.yml`)
 
 - Triggers: cron `30 0 * * *`, `workflow_dispatch`, pushes touching the workflow or `README.md`
-- Action: `stats-organization/github-readme-stats-action@v2`
-- Commits only `profile/stats.svg` and `profile/top-langs.svg`
+- Actions: `stats-organization/github-readme-stats-action@v2`, `DenverCoder1/github-readme-streak-stats@main`, `maurodesouza/github-readme-activity-graph-action@v1`
+- Commits all `profile/*.svg`
 - Secret: `STATS_PAT` — classic PAT with `repo` + `read:user`
 
 ## Content conventions
@@ -51,6 +53,5 @@ Avoid `github-readme-stats.vercel.app` (often paused). Live fallback if needed: 
 ## Do not
 
 - Commit secrets or widen PAT scopes without asking
-- Re-add streak/activity Action steps without an explicit user request
-- Rely on `github-readme-stats.vercel.app`
+- Rely on public streak/activity hosts or `github-readme-stats.vercel.app`
 - Skip updating `.cursor/SESSION_HISTORY.md` after non-trivial decisions

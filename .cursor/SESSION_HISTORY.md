@@ -61,7 +61,7 @@ Append new work here (newest at the bottom). Agents: read this with `.cursor/AGE
 |-------|----------|
 | README content source of truth | Latest CV PDF (path above); keep profile in sync when CV changes |
 | Stats + top-langs | Local SVGs via Actions + `STATS_PAT` |
-| Streak + activity graph | Public hosts only; no Action/PAT |
+| Streak + activity graph | Local SVGs via Actions + `STATS_PAT` (reverted from public hosts Aug 2026 — hosts broken) |
 | Official vercel stats host | Do not use (`DEPLOYMENT_PAUSED`) |
 | Profile private contributions toggle | Assumed **on**; required for streak/activity to show private days |
 | Secret name | `STATS_PAT` |
@@ -70,3 +70,16 @@ Append new work here (newest at the bottom). Agents: read this with `.cursor/AGE
 ### Open / follow-ups
 
 - None requested. Optional later: rotate PAT, theme tweaks, CV→README sync when CV updates again.
+
+---
+
+## 2026-08-25 — Re-enable streak & activity graph in Actions
+
+**Why:** Public hosts failed — `streak-stats.demolab.com` returns API/application errors; `github-readme-activity-graph.vercel.app` returns `402 DEPLOYMENT_DISABLED`.
+
+**Changes:**
+- Restored workflow steps: `DenverCoder1/github-readme-streak-stats@main` → `profile/streak.svg`; `maurodesouza/github-readme-activity-graph-action@v1` → `profile/activity-graph.svg`.
+- README points at `./profile/streak.svg` and `./profile/activity-graph.svg`.
+- Commit step now `git add profile/*.svg`.
+
+**Decision (user):** Generate all four cards via Actions + existing `STATS_PAT` for reliability; no public streak/activity URLs.
